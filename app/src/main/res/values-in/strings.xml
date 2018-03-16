@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IDN Apps</string>
+
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment kosong</string>
+    <string name="home">Home</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="training">Pelatihan</string>
+    <string name="daftar_online">Daftar Online</string>
+    <string name="info">Info</string>
+    <string name="toko_idn">Toko IDN</string>
+    <string name="contact_us">Hubungi Kami</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+    <string name="keluar">Keluar</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IDN Apps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="jadwal">Schedule</string>
+    <string name="training">Training</string>
+    <string name="daftar_online">Register</string>
+    <string name="info">Information</string>
+    <string name="toko_idn">IDN Store</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="ubah_bahasa">Change Language</string>
+    <string name="keluar">Logout</string>
+
+</resources>
