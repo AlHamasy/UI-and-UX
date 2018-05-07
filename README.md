@@ -1,2 +1,10 @@
-# UI-and-UX-with-NavigationDrawer-and-WebView
-this app uses fragment, sharedpreferences, and webview. For this type of activity, it uses the navigation drawer
+# UI-and-UX
+Simple UI and UX
+
+## Included :
+* WebView
+* SplashScreen
+* Fragment (V4)
+* Shared Preference
+
+if there is any problem, feel free to contact me..
